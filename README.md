@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Tauqeer Nasir</h1>
 <h3 align="center">A passionate software engineer from Pakistan, currently working in Dubai, UAE.</h3>
 
-- 🔭 I’m currently working in a Dubai based tech startup [tradeling.com](https://www.tradeling.com)
+- 🔭 I’m currently working in Dubai @[mumzworld.com](https://www.mumzworld.com)
 
 - 🌱 I’m currently learning **Golang**
 
